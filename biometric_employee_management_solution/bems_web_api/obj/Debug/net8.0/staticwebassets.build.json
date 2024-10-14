@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZQ5okkv6kHEr3/3qsAKDsALZoe5CDKW77hqMXLFW9Ik=",
+  "Source": "bems_core_web_api",
+  "BasePath": "_content/bems_core_web_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

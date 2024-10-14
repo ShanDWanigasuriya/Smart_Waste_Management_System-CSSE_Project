@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bems_core_web_api", "bems_web_api\bems_core_web_api.csproj", "{D4F02E53-3008-47A9-B0D3-9E1A4B72A225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bems_core_domain", "bems_core_domain\bems_core_domain.csproj", "{47AE84AF-17A4-441D-836F-32521D965577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F02E53-3008-47A9-B0D3-9E1A4B72A225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F02E53-3008-47A9-B0D3-9E1A4B72A225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F02E53-3008-47A9-B0D3-9E1A4B72A225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F02E53-3008-47A9-B0D3-9E1A4B72A225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AE84AF-17A4-441D-836F-32521D965577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AE84AF-17A4-441D-836F-32521D965577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AE84AF-17A4-441D-836F-32521D965577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AE84AF-17A4-441D-836F-32521D965577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D9678DE-CB35-4671-8C29-36349A027622}
+	EndGlobalSection
+EndGlobal
