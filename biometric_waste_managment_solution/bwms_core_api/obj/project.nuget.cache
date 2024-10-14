@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2/Ctp2dPng=",
+  "success": true,
+  "projectFilePath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_api\\bwms_core_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
