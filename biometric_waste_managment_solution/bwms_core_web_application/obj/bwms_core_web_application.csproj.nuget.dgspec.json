@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_web_application\\bwms_core_web_application.csproj": {}
+  },
+  "projects": {
+    "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_business_layer\\bwms_core_business_layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_business_layer\\bwms_core_business_layer.csproj",
+        "projectName": "bwms_core_business_layer",
+        "projectPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_business_layer\\bwms_core_business_layer.csproj",
+        "packagesPath": "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\",
+        "outputPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_business_layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MalshanRathnayake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_domain\\bwms_core_domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_domain\\bwms_core_domain.csproj",
+        "projectName": "bwms_core_domain",
+        "projectPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_domain\\bwms_core_domain.csproj",
+        "packagesPath": "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\",
+        "outputPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MalshanRathnayake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_web_application\\bwms_core_web_application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_web_application\\bwms_core_web_application.csproj",
+        "projectName": "bwms_core_web_application",
+        "projectPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_web_application\\bwms_core_web_application.csproj",
+        "packagesPath": "C:\\Users\\MalshanRathnayake\\.nuget\\packages\\",
+        "outputPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_web_application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MalshanRathnayake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_business_layer\\bwms_core_business_layer.csproj": {
+                "projectPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_business_layer\\bwms_core_business_layer.csproj"
+              },
+              "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_domain\\bwms_core_domain.csproj": {
+                "projectPath": "D:\\Malshan -Local\\GIT\\Smart_Waste_Management_System-CSSE_Project\\biometric_waste_managment_solution\\bwms_core_domain\\bwms_core_domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "SimpleCrypto": {
+              "target": "Package",
+              "version": "[0.3.30.26, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            },
+            "itextsharp.xmlworker": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

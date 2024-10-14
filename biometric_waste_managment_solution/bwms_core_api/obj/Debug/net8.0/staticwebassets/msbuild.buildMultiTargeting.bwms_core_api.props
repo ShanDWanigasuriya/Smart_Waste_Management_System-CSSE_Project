@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bwms_core_api.props" />
+</Project>

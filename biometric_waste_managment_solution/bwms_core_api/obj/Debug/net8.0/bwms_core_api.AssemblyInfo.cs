@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bwms_core_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc33c43e90b7eb2ac9ce20fe75d8727676ff956c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+384a38476f735d1488c7be3480bce3f84f0596d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("bwms_core_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bwms_core_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

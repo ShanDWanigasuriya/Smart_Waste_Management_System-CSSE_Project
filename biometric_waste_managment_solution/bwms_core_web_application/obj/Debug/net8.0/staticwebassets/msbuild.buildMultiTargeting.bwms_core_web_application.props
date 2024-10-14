@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bwms_core_web_application.props" />
+</Project>

@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\bwms_core_domain\bwms_core_domain.csproj" />
+  </ItemGroup>
+
 </Project>

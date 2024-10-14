@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using bwms_core_domain.UserModels;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace bwms_core_api.Controllers

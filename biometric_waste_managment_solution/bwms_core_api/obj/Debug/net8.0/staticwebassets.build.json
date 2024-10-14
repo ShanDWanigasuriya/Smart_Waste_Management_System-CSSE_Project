@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q3cNC8t7KBztM8OocfuHqzhjnpgaKFtZNeHC08q0LiU=",
+  "Source": "bwms_core_api",
+  "BasePath": "_content/bwms_core_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
